@@ -1,7 +1,9 @@
-/** @type {import('next').NextConfig} */
-
+// @ts-check
+/**
+ * @type {import('next').NextConfig}
+ */
 const nextConfig = {
-  output: 'export',
-  // other configurations...
-};
-module.exports = nextConfig;
+  /* config options here */
+}
+export default nextConfig;
+
